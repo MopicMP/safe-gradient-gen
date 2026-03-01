@@ -1,0 +1,27 @@
+{
+  "name": "safe-gradient-gen",
+  "version": "1.0.0",
+  "description": "Safe css gradient generator and collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "css",
+    "gen",
+    "gradient",
+    "js",
+    "safe",
+    "tool",
+    "utility"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/safe-gradient-gen.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
